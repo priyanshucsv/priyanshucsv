@@ -69,6 +69,7 @@ The project explores areas including:
 Explore the organization and models:
 
 **→ https://huggingface.co/luminas-ai**
+**→ https://luminas-ai.vercel.app**
 
 ---
 
